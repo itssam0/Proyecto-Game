@@ -15,7 +15,7 @@ Además la arquitectura del proyecto está fundamentada en un servidor central q
 A continuación, se desglosarán y examinarán a fondo las especificidades y componentes de este proyecto.
 
 ### Flujo del programa: 
-
+![diagrama](https://github.com/itssam0/Proyecto-Game/blob/05161b2cc66b53f49181ce81aa2493b6002d3414/Diagrama%20de%20flujo.png)
 
 ### Implementación de protocolo pong:
 Creamos nuestro propio protocolo para la comunicación entre el servidor y el cliente, es neceario aclarar que el protocolo lo encontrarás en Python y en C dado que el código del cliente está hecho en Python y el del servidor en C
