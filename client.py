@@ -52,7 +52,7 @@ def check_for_server_messages(sock):
         return None
 
 def main():
-    host = "10.0.2.15"
+    host = "172.17.0.1"
     port = 8080
     state = "WAITING"
     
